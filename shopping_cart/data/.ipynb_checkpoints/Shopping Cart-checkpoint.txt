@@ -1,0 +1,13 @@
+# what is the unique values in each categorical column
+# what is the maximum number of days between the order and delivery
+		hint: convert to datetime format (pd.to_datetime)
+# what is the total money that each gender spent
+# what is the most day that get highest income
+# what is the highest month that get the highest sales?
+		hint: extract month (.dt.year)
+# what is the highest state achieve the highest salees
+# what is the highest state per gender achieve the highest sales
+# what is the average age per state
+# what is the average age per state per each gender
+# what is the product type that have the highest sales
+# what is the color of the product type that have highest sales?
